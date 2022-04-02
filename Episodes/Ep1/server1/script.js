@@ -21,9 +21,9 @@ const playerInstance = jwplayer("player").setup({
       playlist: [
         ,
         {        
-        title: "Harga Ep01",
-        description: "Harga Ep01",
-        image: "thumbnail.jpg",
+        title: "Bara2a Ep01",
+        description: "Bara2a Ep01",
+        image: "../../../baraa.png",
         sources: [{
         file: "https://onedrive.live.com/download?cid=D57942981FA12F8D&resid=D57942981FA12F8D%21107&authkey=AHUKIuS9fpYzWwU",
           label: '1080p',
