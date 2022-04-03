@@ -25,18 +25,18 @@ const playerInstance = jwplayer("player").setup({
         description: "Bara2a Ep01",
         image: "../../../baraa.png",
         sources: [{
-        file: "https://onedrive.live.com/download?cid=XXXXX&resid=XXXX&authkey=XXXX",
+        file: "https://onedrive.live.com/download?cid=A3D539BAA5EDB1E3&resid=A3D539BAA5EDB1E3%21113&authkey=AC8JbTN5thP-3rk",
           label: '1080p',
           'type': 'mp4',
           primary: 'html5',
 
         },{
-         file: "https://onedrive.live.com/download?cid=XXXXX&resid=XXXX&authkey=XXXX",
+         file: "https://onedrive.live.com/download?cid=A3D539BAA5EDB1E3&resid=A3D539BAA5EDB1E3%21113&authkey=AC8JbTN5thP-3rk",
           label: '720p',
           'type': 'mp4',
           primary: 'html5',
         },{
-         file: "https://onedrive.live.com/download?cid=XXXXX&resid=XXXX&authkey=XXXX",
+         file: "https://onedrive.live.com/download?cid=A3D539BAA5EDB1E3&resid=A3D539BAA5EDB1E3%21113&authkey=AC8JbTN5thP-3rk",
           label: '480p',
           'type': 'mp4',
           primary: 'html5',
