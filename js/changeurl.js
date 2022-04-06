@@ -8,8 +8,8 @@ function changeurl1(){
    document.getElementById("Ep3-1").setAttribute("href", "https://vidbam.org/embed-zeaaoyiw64te.html");
    document.getElementById("Ep3-2").setAttribute("href", "https://vidbam.org/embed-zeaaoyiw64te.html");
 
-   document.getElementById("Ep4-1").setAttribute("href", "https://vidspeeds.com:2096/embed-kbor61f68rso.html");
-   document.getElementById("Ep4-2").setAttribute("href", "https://vidspeeds.com:2096/embed-kbor61f68rso.html");
+   document.getElementById("Ep4-1").setAttribute("href", "https://vidbam.org/embed-4hhwtx5n0mkj.html");
+   document.getElementById("Ep4-2").setAttribute("href", "https://vidbam.org/embed-4hhwtx5n0mkj.html");
 
    document.getElementById("Ep5-1").setAttribute("href", "../Episodes/Ep5/server1/play.html");
    document.getElementById("Ep5-2").setAttribute("href", "../Episodes/Ep5/server1/play.html");
@@ -73,8 +73,8 @@ function changeurl2(){
    document.getElementById("Ep3-1").setAttribute("href", "https://vudeo.io/embed-2rzhc0edr96e.html");
    document.getElementById("Ep3-2").setAttribute("href", "https://vudeo.io/embed-2rzhc0edr96e.html");
 
-   document.getElementById("Ep4-1").setAttribute("href", "https://vidspeeds.com:2096/embed-kbor61f68rso.html");
-   document.getElementById("Ep4-2").setAttribute("href", "https://vidspeeds.com:2096/embed-kbor61f68rso.html");
+   document.getElementById("Ep4-1").setAttribute("href", "https://vudeo.io/embed-bkvwb68wrlm6.html");
+   document.getElementById("Ep4-2").setAttribute("href", "https://vudeo.io/embed-bkvwb68wrlm6.html");
 
    document.getElementById("Ep5-1").setAttribute("href", "../Episodes/Ep5/server2/play.html");
    document.getElementById("Ep5-2").setAttribute("href", "../Episodes/Ep5/server2/play.html");
@@ -138,8 +138,8 @@ function changeurl3(){
    document.getElementById("Ep3-1").setAttribute("href", "https://uqload.com/embed-y0rki2xa67ab.html");
    document.getElementById("Ep3-2").setAttribute("href", "https://uqload.com/embed-y0rki2xa67ab.html");
 
-   document.getElementById("Ep4-1").setAttribute("href", "https://vidspeeds.com:2096/embed-kbor61f68rso.html");
-   document.getElementById("Ep4-2").setAttribute("href", "https://vidspeeds.com:2096/embed-kbor61f68rso.html");
+   document.getElementById("Ep4-1").setAttribute("href", "https://uqload.com/embed-qnt9gx5c1n4q.html");
+   document.getElementById("Ep4-2").setAttribute("href", "https://uqload.com/embed-qnt9gx5c1n4q.html");
 
    document.getElementById("Ep5-1").setAttribute("href", "../Episodes/Ep5/server3/play.html");
    document.getElementById("Ep5-2").setAttribute("href", "../Episodes/Ep5/server3/play.html");
