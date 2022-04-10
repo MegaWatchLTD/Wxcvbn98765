@@ -88,8 +88,8 @@ function changeurl2(){
    document.getElementById("Ep8-1").setAttribute("href", "https://vudeo.io/embed-06iwdt9i2yuu.html");
    document.getElementById("Ep8-2").setAttribute("href", "https://vudeo.io/embed-06iwdt9i2yuu.html");
 
-   document.getElementById("Ep9-1").setAttribute("href", "https://uqload.com/embed-z72ozz4az5ks.html");    
-   document.getElementById("Ep9-2").setAttribute("href", "https://uqload.com/embed-z72ozz4az5ks.html");    
+   document.getElementById("Ep9-1").setAttribute("href", "https://vudeo.io/embed-hzk2wplyzjjk.html");    
+   document.getElementById("Ep9-2").setAttribute("href", "https://vudeo.io/embed-hzk2wplyzjjk.html");    
 
    document.getElementById("Ep10-1").setAttribute("href", "../Episodes/Ep10/server2/play.html");
    document.getElementById("Ep10-2").setAttribute("href", "../Episodes/Ep10/server2/play.html");
