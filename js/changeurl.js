@@ -180,8 +180,8 @@ function changeurl3(){
    document.getElementById("Ep17-1").setAttribute("href", "https://uqload.com/embed-9pkxh0vo0627.html");
    document.getElementById("Ep17-2").setAttribute("href", "https://uqload.com/embed-9pkxh0vo0627.html");
 
-   document.getElementById("Ep18-1").setAttribute("href", "https://uqload.com/embed-kzj55cqo9iyr.html");    
-   document.getElementById("Ep18-2").setAttribute("href", "https://uqload.com/embed-kzj55cqo9iyr.html");    
+   document.getElementById("Ep18-1").setAttribute("href", "https://vudeo.io/embed-peakxctwacvz.html");    
+   document.getElementById("Ep18-2").setAttribute("href", "https://vudeo.io/embed-peakxctwacvz.html");    
 
    document.getElementById("Ep19-1").setAttribute("href", "../Episodes/Ep19/server3/play.html");        
    document.getElementById("Ep19-2").setAttribute("href", "../Episodes/Ep19/server3/play.html");        
