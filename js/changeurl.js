@@ -58,6 +58,10 @@ function changeurl1(){
 
    document.getElementById("Ep20-1").setAttribute("href", "https://myviid.com/embed-ktp4tyqc5x7m.html");
    document.getElementById("Ep20-2").setAttribute("href", "https://myviid.com/embed-ktp4tyqc5x7m.html");
+   
+   
+   document.getElementById("Ep21-1").setAttribute("href", " ");
+   document.getElementById("Ep21-2").setAttribute("href", " ");
     
    return false;
    }
@@ -123,6 +127,9 @@ function changeurl2(){
 
    document.getElementById("Ep20-1").setAttribute("href", "https://uqload.com/embed-1bvd3a3y43gu.html");
    document.getElementById("Ep20-2").setAttribute("href", "https://uqload.com/embed-1bvd3a3y43gu.html");
+   
+   document.getElementById("Ep21-1").setAttribute("href", " ");
+   document.getElementById("Ep21-2").setAttribute("href", " ");
 
    return false;
    }
@@ -188,7 +195,11 @@ function changeurl3(){
 
    document.getElementById("Ep20-1").setAttribute("href", "https://uqload.com/embed-1bvd3a3y43gu.html");
    document.getElementById("Ep20-2").setAttribute("href", "https://uqload.com/embed-1bvd3a3y43gu.html");
-
+   
+   document.getElementById("Ep21-1").setAttribute("href", " ");
+   document.getElementById("Ep21-2").setAttribute("href", " ");
+   
+   
    return false;
    }
 
