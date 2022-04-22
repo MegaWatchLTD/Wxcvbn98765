@@ -59,9 +59,8 @@ function changeurl1(){
    document.getElementById("Ep20-1").setAttribute("href", "https://myviid.com/embed-ktp4tyqc5x7m.html");
    document.getElementById("Ep20-2").setAttribute("href", "https://myviid.com/embed-ktp4tyqc5x7m.html");
    
-   
-   document.getElementById("Ep21-1").setAttribute("href", " ");
-   document.getElementById("Ep21-2").setAttribute("href", " ");
+   document.getElementById("Ep21-1").setAttribute("href", "https://myviid.com/embed-9gfx5hq35ogk.html");
+   document.getElementById("Ep21-2").setAttribute("href", "https://myviid.com/embed-9gfx5hq35ogk.html ");
     
    return false;
    }
@@ -128,8 +127,8 @@ function changeurl2(){
    document.getElementById("Ep20-1").setAttribute("href", "https://uqload.com/embed-1bvd3a3y43gu.html");
    document.getElementById("Ep20-2").setAttribute("href", "https://uqload.com/embed-1bvd3a3y43gu.html");
    
-   document.getElementById("Ep21-1").setAttribute("href", " ");
-   document.getElementById("Ep21-2").setAttribute("href", " ");
+   document.getElementById("Ep21-1").setAttribute("href", "https://vudeo.io/embed-h1s2w8ns7442.html");
+   document.getElementById("Ep21-2").setAttribute("href", "https://vudeo.io/embed-h1s2w8ns7442.html");
 
    return false;
    }
@@ -196,9 +195,8 @@ function changeurl3(){
    document.getElementById("Ep20-1").setAttribute("href", "https://uqload.com/embed-1bvd3a3y43gu.html");
    document.getElementById("Ep20-2").setAttribute("href", "https://uqload.com/embed-1bvd3a3y43gu.html");
    
-   document.getElementById("Ep21-1").setAttribute("href", " ");
-   document.getElementById("Ep21-2").setAttribute("href", " ");
-   
+   document.getElementById("Ep21-1").setAttribute("href", "https://uqload.com/embed-149va9lq9ifa.html");
+   document.getElementById("Ep21-2").setAttribute("href", "https://uqload.com/embed-149va9lq9ifa.html");
    
    return false;
    }
